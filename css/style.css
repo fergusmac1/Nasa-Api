@@ -15,13 +15,19 @@ section {
 }
 
 h1 {
-  height: 200px;
-  width: 200px;
+  font-family: "Robot Slab", sans-serif;
+  background: white;
+}
+
+h2{
+  font-family: "Robot Slab", sans-serif;
+  background: white;
 }
 
 h3 {
-  display: flex;
-  justify-content: center;
+  font-family: "Roboto Slab", sans-serif;
+  background: white;
+  color: darkgreen;
 }
 /******************************************
 /* LAYOUT
@@ -34,7 +40,9 @@ img{
 
 body{
   text-align: center;
-  background-image: url("NASA_logo.svg.png")
+  background-image: url("NASA_logo.svg.png");
+  background-size: 100px;
+  
 }
 
 
