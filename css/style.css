@@ -7,6 +7,8 @@
   box-sizing: border-box;
 }
 
+
+
 section {
   display: flex;
   justify-content: center;
@@ -17,6 +19,10 @@ h1 {
   width: 200px;
 }
 
+h3 {
+  display: flex;
+  justify-content: center;
+}
 /******************************************
 /* LAYOUT
 /*******************************************/
@@ -26,15 +32,9 @@ img{
   width: 50%
 }
 
-section.explanation{
-  display: flex;
-  border: 1px solid black;
-  width: 50%;
-}
-
 body{
   text-align: center;
-  background-color: rgb(228, 236, 233);
+  background-image: url("NASA_logo.svg.png")
 }
 
 
