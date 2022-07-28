@@ -7,30 +7,24 @@
   box-sizing: border-box;
 }
 
-
-
-section {
-  display: flex;
-  justify-content: center;
-}
-
-
-
 h1 {
   font-family: "Robot Slab", sans-serif;
-  color: rgb(255, 255, 255);
+  color: rgb(255, 248, 60);
 }
+
 
 h2{
   font-family: "Robot Slab", sans-serif;
-  color: rgb(255, 255, 255);
-  
-  
+  color: rgb(255, 248, 60);
+  background-color: blueviolet;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 h3 {
   font-family: "Roboto Slab", sans-serif;
-  color: rgb(255, 248, 60);
+  color: rgb(255, 245, 60);
+  background-color: blueviolet;
 }
 /******************************************
 /* LAYOUT
