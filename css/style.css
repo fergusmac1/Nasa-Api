@@ -49,7 +49,7 @@ body{
 }
 
 @supports (display: flex) {
-  @media screen and (min-width: 416px) and (min-height:896) {
+  @media screen and (min-width: 200px) and (min-height:400px) {
     article {
       display: flex;
     }
